@@ -127,6 +127,10 @@ $("#ip2").text("Aus Sicherheitsgründen müssen Sie vor dem Speichern das Kennwo
 //After changes are made, the controller will need to be rebooted, do this manually.
 $("#ip3").text("Nachdem Änderungen vorgenommen wurden, muss der Controller neu gestartet werden. Führen Sie dieses manuell durch.");
 
+//PATREON
+//Remember, this product is free for personal use, if you would like to make a regular donation to keep the features and improvements flowing, use the Patreon link below. Even just a coffee/beer a month makes a difference. Thank you!
+$("#ap4").text("Denken Sie daran, dass dieses Produkt für den persönlichen Gebrauch kostenlos ist. Wenn Sie regelmäßig spenden möchten, um die Funktionen und Verbesserungen aufrechtzuerhalten, verwenden Sie den unten stehenden Patreon-Link. Schon ein Kaffee / Bier im Monat macht den Unterschied. Vielen Dank!");
+
 //WARNING
 $("#ap5").text("WARNUNG");
 //This is a DIY product/solution so don’t use this for safety critical systems or in any situation where there could be a risk to life.
